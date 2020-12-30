@@ -1,3 +1,4 @@
+[![Build Status](https://bifuture.visualstudio.com/Spacegame/_apis/build/status/hennie7863.mslearn-tailspin-spacegame-web?branchName=master)](https://bifuture.visualstudio.com/Spacegame/_build/latest?definitionId=102&branchName=master)
 
 # Contributing
 
